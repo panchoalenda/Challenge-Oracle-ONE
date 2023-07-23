@@ -35,8 +35,6 @@ Descargar el archivo "conversor_unidades.jar" que se encuentra en el directorio 
 
 ### Requisitos del Sistema
 Para ejecutar necesita tener instalado el JVM (Java Virtual Machine)3
-- [Enumera los requisitos mínimos del sistema]
-- [Incluye cualquier dependencia o biblioteca externa]
 
 ## Uso:
 
